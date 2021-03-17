@@ -32,6 +32,7 @@ Detailed common flow:
     - [ ] Uniformed Searches
       - [ ] BFS
       - [ ] DFS
+      - [ ] Depth limited
       - [ ] Iterative Deepening
       - [ ] UCS
       - [ ] Bidirectional
