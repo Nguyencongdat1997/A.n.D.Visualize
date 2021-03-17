@@ -32,6 +32,7 @@ Detailed common flow:
     - [ ] Uniformed Searches
       - [ ] BFS
       - [ ] DFS
+      - [ ] Iterative Deepening
       - [ ] UCS
       - [ ] Bidirectional
     - [ ] Informed Searches
@@ -43,7 +44,7 @@ Detailed common flow:
         - [ ] Generic (optional)
  - **Phase 2** ideas:
     - More algorithms
-    - More branches of problem( Constraint Satisfaction Problem, Adversal Search, ...)
+    - More branches of problem( Constraint Satisfaction Problem(Backtracking, local search), Adversal Search-Game, ...)
     - More environment types( non-deterministic, dynamic, continous, ...)
     - User-modifiable algorithms, hyper-parameter picker
 
